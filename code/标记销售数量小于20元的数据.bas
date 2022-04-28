@@ -1,10 +1,10 @@
-Attribute VB_Name = "Ä£¿é1"
-Sub ±ê¼ÇÏúÊÛÊýÁ¿Ð¡ÓÚ20ÔªµÄÊý¾Ý()
-Attribute ±ê¼ÇÏúÊÛÊýÁ¿Ð¡ÓÚ20ÔªµÄÊý¾Ý.VB_ProcData.VB_Invoke_Func = "P\n14"
+Attribute VB_Name = "Ä£ï¿½ï¿½1"
+Sub ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½20Ôªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½()
+Attribute ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½20Ôªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.VB_ProcData.VB_Invoke_Func = "P\n14"
 '
-' ±ê¼ÇÏúÊÛÊýÁ¿Ð¡ÓÚ20ÔªµÄÊý¾Ý ºê
+' ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½20Ôªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½
 '
-' ¿ì½Ý¼ü: Ctrl+Shift+P
+' ï¿½ï¿½Ý¼ï¿½: Ctrl+Shift+P
 '
     Columns("D:D").Select
     Selection.FormatConditions.Add Type:=xlCellValue, Operator:=xlLess, _
